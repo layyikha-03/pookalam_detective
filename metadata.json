@@ -1,0 +1,6 @@
+{
+  "name": "Pookalam Detective: Floral Forensic Inspector",
+  "description": "Subjecting your Onam floral carpets to ruthless traditional scrutiny with AI-powered floral forensics and Ammavan drama ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

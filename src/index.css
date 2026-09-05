@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Cinzel', serif;
+  }
+
+  .font-malayalam {
+    font-family: 'Yatra One', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+/* Forensic Scanning & Kerala aesthetic keyframes */
+@keyframes forensic-scan {
+  0% {
+    top: 0%;
+    opacity: 0.8;
+  }
+  50% {
+    top: 96%;
+    opacity: 1;
+  }
+  100% {
+    top: 0%;
+    opacity: 0.8;
+  }
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.02);
+  }
+}
+
+.animate-scan-line {
+  animation: forensic-scan 2.4s ease-in-out infinite;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 24s linear infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+/* Kasavu Gold Gradient Utilities */
+.bg-kasavu-gold {
+  background: linear-gradient(135deg, #F3C048 0%, #D4AF37 50%, #AA820A 100%);
+}
+
+.text-kasavu-gold {
+  color: #F3C048;
+}
+
+.border-kasavu-gold {
+  border-color: #D4AF37;
+}
+
+/* Traditional Pookalam geometric dot grid background */
+.bg-pookalam-pattern {
+  background-color: #0d0807;
+  background-image: 
+    radial-gradient(circle at 50% 50%, rgba(212, 175, 55, 0.08) 0%, transparent 60%),
+    radial-gradient(circle at 10% 20%, rgba(185, 28, 28, 0.07) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(21, 128, 61, 0.07) 0%, transparent 40%),
+    radial-gradient(rgba(245, 158, 11, 0.06) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 100% 100%, 24px 24px;
+}
