@@ -10,56 +10,66 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Layyikha Fathima Azad - VJCET,vazhakulam
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+A full-stack, multimodal vision AI web application that subjects Onam floral carpets (Pookalams) to strict forensic inspection. Powered by Gemini AI, it identifies individual flower species, calculates spectral color ratios.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+the confusion of what flower is there in the pookalam
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+some judgemental comments on your pookalam
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- TypeScript, JavaScript, HTML, CSS
+- React 19, Express.js (Node.js)
+- Tailwind CSS v4, Motion (Framer Motion), Lucide Icons
+- Node.js, Vite/Next.js, Google Gemini 3.8 Flash Vision AI
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-*N/A (Software Project)*
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+# Clone the repository
+git clone [https://github.com/example/pookalam-detective.git](https://github.com/example/pookalam-detective.git)
+cd pookalam-detective
+
+# Install dependencies
+npm install
+
+# Configure Environment (Optional - works in Demo Mode out of the box)
+cp .env.example .env
+# Set GEMINI_API_KEY="your-gemini-api-key" inside .env
 
 # Run
-[commands]
+Bash
+
+# Start development server
+npm run dev
+
+# Build and run for production
+npm run build
+npm start
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+<img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/bdcf0773-5b44-483a-8abf-ae6d210fd494" />
+intro UI
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/4d3769f6-fa9e-4802-ad06-59bee7308158" />
+after uploading pookalam 1
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/756c4dd4-e0b6-422c-b598-76e950b51fbb" />
+after uploading pookalam 2
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1600" height="900" alt="how it works?" src="https://github.com/user-attachments/assets/fef00f79-d6d3-47e3-987d-460683118823" />
+End-to-end data pipeline: Image processing through Express API to Gemini 3.8 Flash AI and Kerala Kasavu styled UI rendering.
 
 For Hardware:
 
@@ -86,7 +96,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+he Tharavadu Heritage Atham, The Interstate Wholesale Overdose, and The Infopark Rangoli Crime.
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
