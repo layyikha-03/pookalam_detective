@@ -1,154 +1,103 @@
-# 🌸 Pookalam Detective: Floral Forensic Inspector
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
-[![Kerala State Approved](https://img.shields.io/badge/Ammavan%20Rating-Certified%20Ruthless-crimson.svg)](#ammavan-lore--scoring-matrix)
-[![Hackathon](https://img.shields.io/badge/Hackathon-Useless%20Projects%202026-gold.svg)](#about-the-project)
-[![AI Engine](https://img.shields.io/badge/Vision%20AI-Gemini%203.8%20Flash-green.svg)](#vision-ai-architecture)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> *"Subjecting your Onam floral carpets to ruthless traditional scrutiny with AI-powered floral forensics and uncompromising elder drama ratings."*
 
----
+# [Project Name] 🎯
 
-## 🧐 What is Pookalam Detective?
 
-During the 10 days of Onam (from Atham to Thiruvonam), millions of households across Kerala construct **Pookalams** (floral carpets). However, modern shortcuts have infiltrated this sacred art form:
-* ⚠️ Buying 40kg sacks of truckload yellow Marigolds from Coimbatore instead of waking up at 4:30 AM.
-* 🚨 Sneaking in fluorescent synthetic colored sawdust and craft-store glitter.
-* 😱 Complete disappearance of the sacred **Thumba (Ceylon Slitwort)** white central core ring!
+## Basic Details
+### Team Name: [Name]
 
-**Pookalam Detective** is a full-stack, multimodal forensic inspection web application created for the *Useless Hackathon*. It uses computer vision (powered by **Google Gemini 3.8 Flash Vision**) to scan any uploaded Pookalam photo, isolate individual flower varieties with their authentic Malayalam names, calculate spectral color distribution, and deliver a dramatic **"Ammavan Approval Rating"** penned in the persona of an overly strict Keralite elder.
 
----
+### Team Members
+- Team Lead: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
-## ✨ Core Features
+### Project Description
+[2-3 lines about what your project does]
 
-1. **Floral Evidence Registry**:
-   - Detects wild vs. commercial botanical species:
-     - **തുമ്പപ്പൂ (Thumba / Ceylon Slitwort)** - The sacred centerpiece.
-     - **മുക്കുറ്റി (Mukkutti / Little Tree Plant)** - Traditional Dashapushpam herb.
-     - **ചെത്തിപ്പൂ (Chettipoo / Marigold)** - Evaluated for Tamil Nadu wholesale excess.
-     - **ചെമ്പരത്തി (Chembarathi / Hibiscus)** - Shredded crimson petal rings.
-     - **തുളസി (Tulsi / Holy Basil)** - Sacred emerald concentric dividers.
-     - **വാടാമല്ലി (Vadamalli / Globe Amaranth)** - Traditional purple accent points.
-2. **Spectral Color Coverage Chart**:
-   - Optical breakdown of dominant petal wavelengths across concentric radii (Thumba White, Kasavu Gold, Crimson Red, Leaf Green, etc.).
-3. **The Ammavan Approval Rating (0 to 100%)**:
-   - Algorithmic evaluation of traditional authenticity vs. lazy modern shortcuts.
-4. **Dramatic Ammavan Review & Verdict**:
-   - 2-sentence hilarious monologue written in the persona of a Thrissur Tharavadu elder.
-   - 3-5 word official verdict stamped in ALL CAPS (e.g., `AUTHENTIC HERITAGE BEAUTY` or `ABSOLUTE CULTURAL SCANDAL`).
-5. **Florist Extortion Estimator**:
-   - Calculates the fake market cost estimate in Indian Rupees (₹) with middleman surge markups.
-6. **Zero-Config Presentation Safety (Demo Mode)**:
-   - Includes 3 pre-calibrated iconic presets (*The Tharavadu Heritage Atham*, *The Interstate Wholesale Overdose*, and *The Infopark Rangoli Crime*) that run immediately without uploading files or supplying an API key!
+### The Problem (that doesn't exist)
+[What ridiculous problem are you solving?]
 
----
+### The Solution (that nobody asked for)
+[How are you solving it? Keep it fun!]
 
-## 📜 Ammavan Lore & Scoring Matrix
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
-| Approval Score | Tier Title | Elder Reaction | Consequence |
-|---|---|---|---|
-| **75% – 100%** | **Vaidika Gold (Legendary)** | Gentle nod, mist in eyes | Extra ladle of Ada Pradhaman payasam guaranteed |
-| **45% – 74%** | **Kudumba Sneham / Instagram Compromise** | Heavy sigh, arms folded | *"In 1978 our pookalam covered the entire front yard"* |
-| **0% – 44%** | **Coimbatore Plastic Disaster** | Blood pressure reaches 190 | Disowned from the family WhatsApp group for 1 year |
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-### Statutory Ammavan Penalties & Bounties
-- **-50 Pts**: Detected colored sawdust, rangoli powder, or polyester fabric petals.
-- **-25 Pts**: Missing the pristine white Thumba ring in the geometric center.
-- **-15 Pts**: Severe Coimbatore Marigold overload (>60% surface area).
-- **-10 Pts**: Visible concentric radial asymmetry (hand tremors detected).
-- **+20 Pts**: Sacred wild Dashapushpam herbs harvested with morning dew.
+### Implementation
+For Software:
+# Installation
+[commands]
 
----
+# Run
+[commands]
 
-## 🛠️ Tech Stack & Architecture
+### Project Documentation
+For Software:
 
-- **Frontend**: React 19, TypeScript, Tailwind CSS v4, Motion animations, Lucide icons.
-- **Backend API**: Express.js server with `/api/analyze`, `/api/demo`, and `/api/health`.
-- **Vision Engine**: `@google/genai` TypeScript SDK utilizing `gemini-3.8-flash`.
-- **Design System**: Kerala Kasavu aesthetic (Kasavu Gold `#D4AF37`, Deep Crimson `#991B1B`, Marigold Yellow `#F59E0B`, Leaf Green `#15803D`).
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
----
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-## 🚀 Quick Start (Local Execution)
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-### Prerequisites
-- Node.js 18+
-- npm or yarn
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-### 1. Clone & Install
-```bash
-git clone https://github.com/example/pookalam-detective.git
-cd pookalam-detective
-npm install
-```
+For Hardware:
 
-### 2. Configure Environment (Optional)
-The application works immediately in **Demo Mode** or with calibrated offline fallbacks without any API key. To enable live Gemini AI vision analysis:
-```bash
-cp .env.example .env
-# Add your Gemini API Key:
-# GEMINI_API_KEY="your-gemini-api-key"
-```
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
 
-### 3. Run Development Server
-```bash
-npm run dev
-```
-Open your browser at `http://localhost:3000`.
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
 
-### 4. Build for Production
-```bash
-npm run build
-npm start
-```
+# Build Photos
+![Components](Add photo of your components here)
+*List out all components shown*
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of final product here)
+*Explain the final build*
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
 ---
+Made with ❤️ at TinkerHub Useless Projects 
 
-## 📸 API Documentation
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
 
-### `POST /api/analyze`
-Inspects an uploaded Pookalam image.
 
-**Request Body:**
-```json
-{
-  "imageBase64": "data:image/jpeg;base64,...",
-  "mimeType": "image/jpeg",
-  "customApiKey": "optional-override-key"
-}
-```
 
-**Response (JSON):**
-```json
-{
-  "success": true,
-  "data": {
-    "caseNumber": "KL-CPFD-2026-4921",
-    "ammavanScore": 94,
-    "ammavanVerdict": "AUTHENTIC HERITAGE BEAUTY",
-    "ammavanDramaReview": "Praise be to Mahabali, someone finally woke up before 5 AM to gather sacred Thumba instead of sleeping till noon like modern engineering college graduates!",
-    "ammavanPersona": {
-      "name": "Keshavan Namboothiri",
-      "village": "Irinjalakuda, Thrissur",
-      "reactionEmoji": "🪔"
-    },
-    "floristExtortionEstimate": {
-      "totalRupees": 450,
-      "markupPercentage": 12,
-      "breakdownNote": "Gathered from backyard weeds; minimal florist cartel markup.",
-      "syndicateLevel": "Fair Local"
-    },
-    "symmetryScore": 96,
-    "radialRingsDetected": 8,
-    "thumbaWhiteRingDetected": true,
-    "floralEvidence": [ ... ],
-    "spectralBreakdown": [ ... ]
-  }
-}
-```
-
----
-
-## 🏆 Hackathon Disclaimer
-*Pookalam Detective* is built as a light-hearted, affectionate tribute to Onam traditions and the time-honored banter of Kerala family gatherings. No real Ammavans were harmed in the training of this neural network.
