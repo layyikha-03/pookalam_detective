@@ -91,9 +91,14 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+## Video Demo
+
+<video src="./video.webm" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
+*This demo showcases Pookalam Detective analyzing a Pookalam image using Gemini Vision AI, identifying flowers, analyzing colors, and generating its forensic-style verdict.*
+
 
 # Additional Demos
 he Tharavadu Heritage Atham, The Interstate Wholesale Overdose, and The Infopark Rangoli Crime.
