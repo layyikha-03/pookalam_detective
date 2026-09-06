@@ -2,11 +2,11 @@
 
 
 
-# [Project Name] 🎯
+# pookalam detective 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: layyikha
 
 
 ### Team Members
@@ -28,9 +28,6 @@ For Software:
 - React 19, Express.js (Node.js)
 - Tailwind CSS v4, Motion (Framer Motion), Lucide Icons
 - Node.js, Vite/Next.js, Google Gemini 3.8 Flash Vision AI
-
-For Hardware:
--*N/A (Software Project)*
 
 ### Implementation
 For Software:
@@ -56,7 +53,7 @@ npm run dev
 # Build and run for production
 npm run build
 npm start
-
+```
 ### Project Documentation
 For Software:
 
@@ -71,27 +68,8 @@ after uploading pookalam 2
 <img width="1600" height="900" alt="how it works?" src="https://github.com/user-attachments/assets/fef00f79-d6d3-47e3-987d-460683118823" />
 End-to-end data pipeline: Image processing through Express API to Gemini 3.8 Flash AI and Kerala Kasavu styled UI rendering.
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
-## Video Demo
+Project URL: https://pookalamdetective.vercel.app/
 
 <video src="./video.webm" controls width="100%">
   Your browser does not support the video tag.
