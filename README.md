@@ -71,20 +71,14 @@ End-to-end data pipeline: Image processing through Express API to Gemini 3.8 Fla
 ### Project Demo
 Project URL: https://pookalamdetective.vercel.app/
 
-<video src="./video.webm" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[video.webm](https://github.com/user-attachments/assets/74e85afb-05f9-4fb2-a66f-f432b4a91b24)
+
 
 *This demo showcases Pookalam Detective analyzing a Pookalam image using Gemini Vision AI, identifying flowers, analyzing colors, and generating its forensic-style verdict.*
 
 
 # Additional Demos
-he Tharavadu Heritage Atham, The Interstate Wholesale Overdose, and The Infopark Rangoli Crime.
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+The Tharavadu Heritage Atham, The Interstate Wholesale Overdose, and The Infopark Rangoli Crime.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
